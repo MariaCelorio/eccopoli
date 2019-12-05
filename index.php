@@ -28,6 +28,7 @@
 						<ul class="list header_social">
 							<li><a href="#"><i class="fa fa-facebook"></i></a></li>
 							<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+							<li><a href="#"><i class="fa fa-instagram"></i></a></li>
 						</ul>
 					</div>
 					<div class="float-right">
@@ -194,16 +195,21 @@
         
         
         <!--================ start footer Area  =================-->	
-        <footer class="footer-area p_120">
+        <footer class="footer-area ">
             <div class="container">
-                
-                <div class="row footer-bottom d-flex justify-content-between align-items-center">
-                    
-                    <div class="col-lg-4 col-md-4 footer-social">
-                        <a href="#"><i class="fa fa-facebook"></i></a>
-                        <a href="#"><i class="fa fa-twitter"></i></a>
+					<div class="main_title">
+						<h2></h2>	
+					
+						<h3>Thank you for visiting!</h3>
+						<p> We hope to see you back soon <br> In the meanwhile, check our social media</p>
+
+                        <h2>
+							<a href="#"><i class="fa fa-facebook"></i></a>
+						 	<a href="#"><i class="fa fa-twitter"></i></a>
+						  	<a href="#"><i class="fa fa-instagram"></i></a>
+						</h2>
                     </div>
-                </div>
+                
             </div>
         </footer>
 		<!--================ End footer Area  =================-->
@@ -221,9 +227,8 @@
         <script src="vendors/nice-select/js/jquery.nice-select.min.js"></script>
         <script src="vendors/isotope/imagesloaded.pkgd.min.js"></script>
         <script src="vendors/isotope/isotope-min.js"></script>
-        <script src="vendors/owl-carousel/owl.carousel.min.js"></script>
+		<script src="vendors/owl-carousel/owl.carousel.min.js"></script>
         <script src="js/jquery.ajaxchimp.min.js"></script>
-        
         <script src="js/mail-script.js"></script>
         <script src="js/theme.js"></script>
     </body>
