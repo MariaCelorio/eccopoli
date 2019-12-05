@@ -110,7 +110,7 @@
         			<div class="col-lg-4">
         				<div class="services_item">
         					<h2>1</h2>
-        					<a href="contact.html"><h4>Rule of Law and Human Rights</h4></a>
+        					<a href="hr.html"><h4>Rule of Law and Human Rights</h4></a>
         					<p>The first pillar and one of the most important goals of Eccopoli is that law be respected and the rule of law prevails. Through community meetings, Eccopoli creates synergies so that crimes are denounced and law suits have adequate follow-up, pursuing those responsible and enforcing the law. </p>
 							<p>	On the other hand, also through community meetings, with the Ministry of Justice and the Interior representatives, it is promoted that human rights are respected of all sorts, as well as according to the laws and international treaties. 
 
@@ -120,7 +120,7 @@
         			<div class="col-lg-4">
         				<div class="services_item">
 								<h2>2</h2>
-        					<a href="blog.html"><h4>Gender Equality </h4></a>
+        					<a href="ge.html"><h4>Gender Equality </h4></a>
         					<p>A second pillar of the NGO is gender equality. Eccopoli aims to promote at the community level that gender equality prevails. In such a way, in reunions with communities throughout Haiti, Eccopoli promotes in family, in politics and in all social areas, that such equity is respected and that all kinds of violence against women is eradicated and fought against. <p>
 
 							</p>UN resolutions on Gender are discussed, and the importance of giving women the respect they deserve in all areas of their lives. </p>
@@ -129,7 +129,7 @@
         			<div class="col-lg-4">
         				<div class="services_item">
 								<h2>3</h2>
-        					<a href="#"><h4>Sustainable Development</h4></a>
+        					<a href="sd.html"><h4>Sustainable Development</h4></a>
 							<p>The third pillar of Eccopoli is Sustainable Development. Eccopoli has the intention to build one or more new projects each year. The selection of each project takes place at community meetings where the population expresses their needs. </p>
 							<p>Furthermore, Eccopoli undertakes the framework of the seventeen Sustainable Development Goals (SDGs) of the United Nations to intentionally implement one project annually according to the latter seventeen goals.   </p>
         				</div>
