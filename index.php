@@ -142,50 +142,50 @@
         <!--================Builder Image Area =================-->
         <seciton class="builder_area">
         	<div class="main_title">
-        		<h2>Our Latest Projects</h2>
-        		<p>Who are in extremely love with eco friendly system.</p>
+        		<h2>Our Projects</h2>
+        		
         	</div>
 			<div class="row m0 builder_inner">
 				<div class="builder_item">
 					<img src="img/builder_home/builder-1.gif" alt="">
 					<div class="hover">
-						<h4>Alex Complex for Residence</h4>
-						<p>LCD screens are uniquely modern in style, and the liquid crystals that make them work have allowed humanity to create  slimmer.</p>
+						<h4>Gender Equality</h4>
+						<p>Eccopoli is integrated at the community level to mediate in the resolution of conflicts between members of different genders to reach viable agreements. </p>
 					</div>
 				</div>
 				<div class="builder_item">
 					<img src="img/builder_home/builder-2.gif" alt="">
 					<div class="hover">
-						<h4>Alex Complex for Residence</h4>
-						<p>LCD screens are uniquely modern in style, and the liquid crystals that make them work have allowed humanity to create  slimmer.</p>
+							<h4>Sustainable Development	</h4>
+							<p>Eccopoli intends to carry out high impact projects at the community level to improve the lives of community members where it is most needed. </p>
 					</div>
 				</div>
 				<div class="builder_item">
 					<img src="img/builder_home/builder-3.gif" alt="">
 					<div class="hover">
-						<h4>Alex Complex for Residence</h4>
-						<p>LCD screens are uniquely modern in style, and the liquid crystals that make them work have allowed humanity to create  slimmer.</p>
+						<h4>Sustainable Development	</h4>
+						<p>Eccopoli enters these communities and identifies the most needed projects through community meetings. Using different types of financing and donation mechanisms.</p>
 					</div>
 				</div>
 				<div class="builder_item">
 					<img src="img/builder_home/builder-4.gif" alt="">
 					<div class="hover">
-						<h4>Alex Complex for Residence</h4>
-						<p>LCD screens are uniquely modern in style, and the liquid crystals that make them work have allowed humanity to create  slimmer.</p>
+						<h4>Rule of Law / Human Rights </h4>
+						<p>For Eccopoli, Human Rights cannot be enforced unless there is a solid rule of law in the communities of the countries where we work.</p>
 					</div>
 				</div>
 				<div class="builder_item">
 					<img src="img/builder_home/builder-5.gif" alt="">
 					<div class="hover">
-						<h4>Alex Complex for Residence</h4>
-						<p>LCD screens are uniquely modern in style, and the liquid crystals that make them work have allowed humanity to create  slimmer.</p>
+						<h4>Sustainable Development</h4>
+						<p>Eccopoli seeks to execute projects to improve the situation in a sustainable way at the community level.</p>
 					</div>
 				</div>
 				<div class="builder_item">
 					<img src="img/builder_home/builder-6.gif" alt="">
 					<div class="hover">
-						<h4>Alex Complex for Residence</h4>
-						<p>LCD screens are uniquely modern in style, and the liquid crystals that make them work have allowed humanity to create  slimmer.</p>
+						<h4>Sustainable Development</h4>
+						
 					</div>
 				</div>
 			</div>
