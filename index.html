@@ -67,19 +67,13 @@
 								<li class="nav-item submenu dropdown">
 									<a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Pillars</a>
 									<ul class="dropdown-menu">
-										<li class="nav-item"><a class="nav-link" href="hr.html">HR</a>
-										<li class="nav-item"><a class="nav-link" href="ge.html">GE</a>
-										<li class="nav-item"><a class="nav-link" href="sd.html">SD</a>
+										<li class="nav-item"><a class="nav-link" href="hr.html">Human Rights  </a>
+										<li class="nav-item"><a class="nav-link" href="ge.html">Gender Equality  </a>
+										<li class="nav-item"><a class="nav-link" href="sd.html">Sustainable Development </a>
 											</li>
 									</ul>
 								</li> 
-								<li class="nav-item submenu dropdown">
-									<a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Blog</a>
-									<ul class="dropdown-menu">
-										<li class="nav-item"><a class="nav-link" href="blog.html">Blog</a></li>
-										<li class="nav-item"><a class="nav-link" href="single-blog.html">Blog Details</a></li>
-									</ul>
-								</li> 
+								
 
 								<li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
 							</ul>
@@ -111,7 +105,6 @@
         	<div class="container">
         		<div class="main_title">
         			<h2>Pillars</h2>
-        			<p>Lorem ipsum dolor sit amet, consecteturadipis icing elit,</p>
         		</div>
         		<div class="row services_inner">
         			<div class="col-lg-4">
@@ -154,42 +147,42 @@
         	</div>
 			<div class="row m0 builder_inner">
 				<div class="builder_item">
-					<img src="img/builder/builder-1.jpg" alt="">
+					<img src="img/builder_home/builder-1.jpg" alt="">
 					<div class="hover">
 						<h4>Alex Complex for Residence</h4>
 						<p>LCD screens are uniquely modern in style, and the liquid crystals that make them work have allowed humanity to create  slimmer.</p>
 					</div>
 				</div>
 				<div class="builder_item">
-					<img src="img/builder/builder-2.jpg" alt="">
+					<img src="img/builder_home/builder-2.jpg" alt="">
 					<div class="hover">
 						<h4>Alex Complex for Residence</h4>
 						<p>LCD screens are uniquely modern in style, and the liquid crystals that make them work have allowed humanity to create  slimmer.</p>
 					</div>
 				</div>
 				<div class="builder_item">
-					<img src="img/builder/builder-3.jpg" alt="">
+					<img src="img/builder_home/builder-3.jpg" alt="">
 					<div class="hover">
 						<h4>Alex Complex for Residence</h4>
 						<p>LCD screens are uniquely modern in style, and the liquid crystals that make them work have allowed humanity to create  slimmer.</p>
 					</div>
 				</div>
 				<div class="builder_item">
-					<img src="img/builder/builder-4.jpg" alt="">
+					<img src="img/builder_home/builder-4.jpg" alt="">
 					<div class="hover">
 						<h4>Alex Complex for Residence</h4>
 						<p>LCD screens are uniquely modern in style, and the liquid crystals that make them work have allowed humanity to create  slimmer.</p>
 					</div>
 				</div>
 				<div class="builder_item">
-					<img src="img/builder/builder-5.jpg" alt="">
+					<img src="img/builder_home/builder-5.jpg" alt="">
 					<div class="hover">
 						<h4>Alex Complex for Residence</h4>
 						<p>LCD screens are uniquely modern in style, and the liquid crystals that make them work have allowed humanity to create  slimmer.</p>
 					</div>
 				</div>
 				<div class="builder_item">
-					<img src="img/builder/builder-6.jpg" alt="">
+					<img src="img/builder_home/builder-6.jpg" alt="">
 					<div class="hover">
 						<h4>Alex Complex for Residence</h4>
 						<p>LCD screens are uniquely modern in style, and the liquid crystals that make them work have allowed humanity to create  slimmer.</p>
