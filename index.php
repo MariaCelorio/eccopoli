@@ -147,42 +147,42 @@
         	</div>
 			<div class="row m0 builder_inner">
 				<div class="builder_item">
-					<img src="img/builder_home/builder-1.jpg" alt="">
+					<img src="img/builder_home/builder-1.gif" alt="">
 					<div class="hover">
 						<h4>Alex Complex for Residence</h4>
 						<p>LCD screens are uniquely modern in style, and the liquid crystals that make them work have allowed humanity to create  slimmer.</p>
 					</div>
 				</div>
 				<div class="builder_item">
-					<img src="img/builder_home/builder-2.jpg" alt="">
+					<img src="img/builder_home/builder-2.gif" alt="">
 					<div class="hover">
 						<h4>Alex Complex for Residence</h4>
 						<p>LCD screens are uniquely modern in style, and the liquid crystals that make them work have allowed humanity to create  slimmer.</p>
 					</div>
 				</div>
 				<div class="builder_item">
-					<img src="img/builder_home/builder-3.jpg" alt="">
+					<img src="img/builder_home/builder-3.gif" alt="">
 					<div class="hover">
 						<h4>Alex Complex for Residence</h4>
 						<p>LCD screens are uniquely modern in style, and the liquid crystals that make them work have allowed humanity to create  slimmer.</p>
 					</div>
 				</div>
 				<div class="builder_item">
-					<img src="img/builder_home/builder-4.jpg" alt="">
+					<img src="img/builder_home/builder-4.gif" alt="">
 					<div class="hover">
 						<h4>Alex Complex for Residence</h4>
 						<p>LCD screens are uniquely modern in style, and the liquid crystals that make them work have allowed humanity to create  slimmer.</p>
 					</div>
 				</div>
 				<div class="builder_item">
-					<img src="img/builder_home/builder-5.jpg" alt="">
+					<img src="img/builder_home/builder-5.gif" alt="">
 					<div class="hover">
 						<h4>Alex Complex for Residence</h4>
 						<p>LCD screens are uniquely modern in style, and the liquid crystals that make them work have allowed humanity to create  slimmer.</p>
 					</div>
 				</div>
 				<div class="builder_item">
-					<img src="img/builder_home/builder-6.jpg" alt="">
+					<img src="img/builder_home/builder-6.gif" alt="">
 					<div class="hover">
 						<h4>Alex Complex for Residence</h4>
 						<p>LCD screens are uniquely modern in style, and the liquid crystals that make them work have allowed humanity to create  slimmer.</p>
