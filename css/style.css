@@ -3727,36 +3727,6 @@ h6 {
 ============================================================================================ */
 /*---------------------------------------------------- */
 /*----------------------------------------------------*/
-/* Counter Area css
-============================================================================================ */
-.counter_area {
-  background: #448fff;
-  padding: 115px 0px 115px 0px;
-}
-
-.counter_inner .counter_item {
-  -webkit-box-flex: 0;
-  -ms-flex: 0 0 20%;
-  flex: 0 0 20%;
-  max-width: 20%;
-}
-
-.counter_item h4 {
-  font-size: 48px;
-  font-family: "Oswald", sans-serif;
-  font-weight: 500;
-  color: #ffffff
-}
-
-.counter_item p {
-  margin-bottom: 0px;
-  color: #ffffff;
-  font-family: "Roboto", sans-serif;
-  font-size: 14px;
-}
-
-/* End Counter Area css
-============================================================================================ */
 /*---------------------------------------------------- */
 /*----------------------------------------------------*/
 /* Feature Area css
@@ -3834,6 +3804,8 @@ h6 {
 /*----------------------------------------------------*/
 /*============== footer-area css ===============*/
 .footer-area {
+  display: flex;
+  justify-content: space-evenly;
   background: #222222;
 }
 
@@ -3956,7 +3928,8 @@ h6 {
 }
 
 .footer-bottom .footer-social {
-  text-align: right;
+  
+  text-align: center;
 }
 
 .footer-bottom .footer-social a {
