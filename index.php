@@ -4,8 +4,8 @@
         <!-- Required meta tags -->
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <link rel="icon" href="img/favicon.png" type="image/png">
-        <title>Builder Construction Multi</title>
+        <link rel="icon" href="img/logo.jpg" type="image/png">
+        <title>Eccopoli</title>
         <!-- Bootstrap CSS -->
         <link rel="stylesheet" href="css/bootstrap.css">
         <link rel="stylesheet" href="vendors/linericon/style.css">
@@ -31,20 +31,20 @@
 						</ul>
 					</div>
 					<div class="float-right">
-						<select class="lan_pack">
-							<option value="1">English</option>
-							<option value="1">Spanish</option>
-							<option value="1">French</option>
-							</select>
-						
-					</div>
+							<select class="lan_pack" onchange= "location = this.value;" >
+								<option value="index.html">English</option>
+								<option value="es/index.html">Spanish</option>
+								<option value="fr/index.html">French</option>
+								</select>
+							
+						</div>
            		</div>	
            	</div>	
             <div class="main_menu">
             	<nav class="navbar navbar-expand-lg navbar-light">
 					<div class="container">
 						<!-- Brand and toggle get grouped for better mobile display -->
-						<a class="navbar-brand logo_h" href="index.html"><img src="img/logo.png" alt=""></a>
+						<a class="navbar-brand logo_h" href="index.html"><img src="img/logo.png" alt="">   Eccopoli</a>
 						<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
@@ -54,13 +54,23 @@
 						<div class="collapse navbar-collapse offset" id="navbarSupportedContent">
 							<ul class="nav navbar-nav menu_nav ml-auto">
 								<li class="nav-item active"><a class="nav-link" href="index.html">Home</a></li> 
-								<li class="nav-item"><a class="nav-link" href="about-us.html">About Us</a></li> 
-								<li class="nav-item"><a class="nav-link" href="service.html">Team</a>
+								
+									<li class="nav-item submenu dropdown">
+										<a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About Us</a>
+										<ul class="dropdown-menu">
+											<li class="nav-item"><a class="nav-link" href="about-us.html">Mission</a>
+											<li class="nav-item"><a class="nav-link" href="team.html">Team</a>
+											
+										</ul>
+									</li> 
+								</li> 
 								<li class="nav-item submenu dropdown">
-									<a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Projects</a>
+									<a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Pillars</a>
 									<ul class="dropdown-menu">
-										<li class="nav-item"><a class="nav-link" href="projects.html">Results</a>
-										<li class="nav-item"><a class="nav-link" href="elements.html">In the making</a></li>
+										<li class="nav-item"><a class="nav-link" href="hr.html">HR</a>
+										<li class="nav-item"><a class="nav-link" href="ge.html">GE</a>
+										<li class="nav-item"><a class="nav-link" href="sd.html">SD</a>
+											</li>
 									</ul>
 								</li> 
 								<li class="nav-item submenu dropdown">
@@ -87,9 +97,9 @@
             	<div class="overlay bg-parallax" data-stellar-ratio="0.9" data-stellar-vertical-offset="0" data-background=""></div>
 				<div class="container">
 					<div class="banner_content text-center">
-						<h3>Build Your <span>Dream</span></h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod temp or incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
-						<a class="black_btn" href="#">Discover Now</a>
+						<h3>ECCO<span>POLI</span></h3>
+						<p>Eccopoli is a non-government organization (NGO) that aims at identifying important needs within vulnerable communities in Haiti, Mexico and other countries in the region. These </p>
+						<a class="black_btn" href="about-us.html">Discover More </a>
 					</div>
 				</div>
             </div>
@@ -100,29 +110,35 @@
         <section class="services_area p_120">
         	<div class="container">
         		<div class="main_title">
-        			<h2>Our Offered Services</h2>
+        			<h2>Pillars</h2>
         			<p>Lorem ipsum dolor sit amet, consecteturadipis icing elit,</p>
         		</div>
         		<div class="row services_inner">
         			<div class="col-lg-4">
         				<div class="services_item">
-        					<img src="img/icon/service-icon-1.png" alt="">
-        					<a href="#"><h4>Building Drawings</h4></a>
-        					<p>Lorem ipsum dolor sit amet, consecteturadipis icing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        					<h2>1</h2>
+        					<a href="contact.html"><h4>Rule of Law and Human Rights</h4></a>
+        					<p>The first pillar and one of the most important goals of Eccopoli is that law be respected and the rule of law prevails. Through community meetings, Eccopoli creates synergies so that crimes are denounced and law suits have adequate follow-up, pursuing those responsible and enforcing the law. </p>
+							<p>	On the other hand, also through community meetings, with the Ministry of Justice and the Interior representatives, it is promoted that human rights are respected of all sorts, as well as according to the laws and international treaties. 
+
+							</p>
         				</div>
         			</div>
         			<div class="col-lg-4">
         				<div class="services_item">
-        					<img src="img/icon/service-icon-2.png" alt="">
-        					<a href="#"><h4>Painting Constructions</h4></a>
-        					<p>Lorem ipsum dolor sit amet, consecteturadipis icing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+								<h2>2</h2>
+        					<a href="blog.html"><h4>Gender Equality </h4></a>
+        					<p>A second pillar of the NGO is gender equality. Eccopoli aims to promote at the community level that gender equality prevails. In such a way, in reunions with communities throughout Haiti, Eccopoli promotes in family, in politics and in all social areas, that such equity is respected and that all kinds of violence against women is eradicated and fought against. <p>
+
+							</p>UN resolutions on Gender are discussed, and the importance of giving women the respect they deserve in all areas of their lives. </p>
         				</div>
         			</div>
         			<div class="col-lg-4">
         				<div class="services_item">
-        					<img src="img/icon/service-icon-3.png" alt="">
-        					<a href="#"><h4>Repairing Constructions</h4></a>
-        					<p>Lorem ipsum dolor sit amet, consecteturadipis icing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+								<h2>3</h2>
+        					<a href="#"><h4>Sustainable Development</h4></a>
+							<p>The third pillar of Eccopoli is Sustainable Development. Eccopoli has the intention to build one or more new projects each year. The selection of each project takes place at community meetings where the population expresses their needs. </p>
+							<p>Furthermore, Eccopoli undertakes the framework of the seventeen Sustainable Development Goals (SDGs) of the United Nations to intentionally implement one project annually according to the latter seventeen goals.   </p>
         				</div>
         			</div>
         		</div>
@@ -183,240 +199,16 @@
         </seciton>
         <!--================End Builder Image Area =================-->
         
-        <!--================Team Area =================-->
-        <section class="team_area p_120">
-        	<div class="container">
-        		<div class="main_title">
-        			<h2>Meet Our Expert Members</h2>
-        			<p>Who are in extremely love with eco friendly system.</p>
-        		</div>
-        		<div class="row team_inner">
-        			<div class="col-lg-3 col-sm-6">
-        				<div class="team_item">
-        					<div class="team_img">
-        						<img class="img-fluid" src="img/team/team-1.jpg" alt="">
-        						<div class="hover">
-        							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore magni ea impedit magnam dolores labore explicabo repudiandae iusto aliquam atque error, nemo inventore neque veniam, numquam repellendus doloremque sunt illum?</p>
-        						</div>
-        					</div>
-        					<div class="team_name">
-        						<h4>Ethel Davis</h4>
-        						<p>Managing Director (Sales)</p>
-        					</div>
-        				</div>
-        			</div>
-        			<div class="col-lg-3 col-sm-6">
-        				<div class="team_item">
-        					<div class="team_img">
-        						<img class="img-fluid" src="img/team/team-2.jpg" alt="">
-        						<div class="hover">
-        							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore magni ea impedit magnam dolores labore explicabo repudiandae iusto aliquam atque error, nemo inventore neque veniam, numquam repellendus doloremque sunt illum?</p>
-        						</div>
-        					</div>
-        					<div class="team_name">
-        						<h4>Ethel Davis</h4>
-        						<p>Managing Director (Sales)</p>
-        					</div>
-        				</div>
-        			</div>
-        			<div class="col-lg-3 col-sm-6">
-        				<div class="team_item">
-        					<div class="team_img">
-        						<img class="img-fluid" src="img/team/team-3.jpg" alt="">
-        						<div class="hover">
-        							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore magni ea impedit magnam dolores labore explicabo repudiandae iusto aliquam atque error, nemo inventore neque veniam, numquam repellendus doloremque sunt illum?</p>
-           						</div>
-        					</div>
-        					<div class="team_name">
-        						<h4>Ethel Davis</h4>
-        						<p>Managing Director (Sales)</p>
-        					</div>
-        				</div>
-        			</div>
-        			<div class="col-lg-3 col-sm-6">
-        				<div class="team_item">
-        					<div class="team_img">
-        						<img class="img-fluid" src="img/team/team-4.jpg" alt="">
-        						<div class="hover">
-        							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore magni ea impedit magnam dolores labore explicabo repudiandae iusto aliquam atque error, nemo inventore neque veniam, numquam repellendus doloremque sunt illum?</p>
-        						</div>
-        					</div>
-        					<div class="team_name">
-        						<h4>Ethel Davis</h4>
-        						<p>Managing Director (Sales)</p>
-        					</div>
-        				</div>
-					</div>
-					<div class="col-lg-3 col-sm-6">
-        				<div class="team_item">
-        					<div class="team_img">
-        						<img class="img-fluid" src="img/team/team-4.jpg" alt="">
-        						<div class="hover">
-        							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore magni ea impedit magnam dolores labore explicabo repudiandae iusto aliquam atque error, nemo inventore neque veniam, numquam repellendus doloremque sunt illum?</p>
-        						</div>
-        					</div>
-        					<div class="team_name">
-        						<h4>Ethel Davis</h4>
-        						<p>Managing Director (Sales)</p>
-        					</div>
-        				</div>
-					</div>
-					<div class="col-lg-3 col-sm-6">
-        				<div class="team_item">
-        					<div class="team_img">
-        						<img class="img-fluid" src="img/team/team-4.jpg" alt="">
-        						<div class="hover">
-        							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore magni ea impedit magnam dolores labore explicabo repudiandae iusto aliquam atque error, nemo inventore neque veniam, numquam repellendus doloremque sunt illum?</p>
-        						</div>
-        					</div>
-        					<div class="team_name">
-        						<h4>Ethel Davis</h4>
-        						<p>Managing Director (Sales)</p>
-        					</div>
-        				</div>
-					</div>
-					<div class="col-lg-3 col-sm-6">
-        				<div class="team_item">
-        					<div class="team_img">
-        						<img class="img-fluid" src="img/team/team-4.jpg" alt="">
-        						<div class="hover">
-        							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore magni ea impedit magnam dolores labore explicabo repudiandae iusto aliquam atque error, nemo inventore neque veniam, numquam repellendus doloremque sunt illum?</p>
-        						</div>
-        					</div>
-        					<div class="team_name">
-        						<h4>Ethel Davis</h4>
-        						<p>Managing Director (Sales)</p>
-        					</div>
-        				</div>
-					</div>
-        		</div>
-        	</div>
-        </section>
-        <!--================End Team Area =================-->
-        
-        <!--================Counter Area =================-->
-        <section class="counter_area">
-        	<div class="container">
-        		<div class="row m0 counter_inner">
-        			<div class="counter_item">
-        				<h4 class="counter">596</h4>
-        				<p>Projects Completed</p>
-        			</div>
-        			<div class="counter_item">
-        				<h4 class="counter">552</h4>
-        				<p>Really Happy Clients</p>
-        			</div>
-        			<div class="counter_item">
-        				<h4 class="counter">5962</h4>
-        				<p>Total Tasks Completed</p>
-        			</div>
-        			<div class="counter_item">
-        				<h4 class="counter">1009</h4>
-        				<p>Cups of Coffee Taken</p>
-        			</div>
-        			<div class="counter_item">
-        				<h4 class="counter">435</h4>
-        				<p>In House Professionals</p>
-        			</div>
-        		</div>
-        	</div>
-        </section>
-        <!--================End Counter Area =================-->
-        
-        <!--================Feature Area =================-->
-        <section class="feature_area p_120">
-        	<div class="container">
-        		<div class="main_title">
-        			<h2>Some Features that Made us Unique</h2>
-        			<p>Who are in extremely love with eco friendly system.</p>
-        		</div>
-        		<div class="row feature_inner">
-        			<div class="col-lg-4 col-md-6">
-        				<div class="feature_item">
-        					<h4><i class="lnr lnr-user"></i>Expert Technicians</h4>
-        					<p>Usage of the Internet is becoming more common due to rapid advancement of technology and power.</p>
-        				</div>
-        			</div>
-        			<div class="col-lg-4 col-md-6">
-        				<div class="feature_item">
-        					<h4><i class="lnr lnr-license"></i>Professional Service</h4>
-        					<p>Usage of the Internet is becoming more common due to rapid advancement of technology and power.</p>
-        				</div>
-        			</div>
-        			<div class="col-lg-4 col-md-6">
-        				<div class="feature_item">
-        					<h4><i class="lnr lnr-phone"></i>Great Support</h4>
-        					<p>Usage of the Internet is becoming more common due to rapid advancement of technology and power.</p>
-        				</div>
-        			</div>
-        			<div class="col-lg-4 col-md-6">
-        				<div class="feature_item">
-        					<h4><i class="lnr lnr-rocket"></i>Technical Skills</h4>
-        					<p>Usage of the Internet is becoming more common due to rapid advancement of technology and power.</p>
-        				</div>
-        			</div>
-        			<div class="col-lg-4 col-md-6">
-        				<div class="feature_item">
-        					<h4><i class="lnr lnr-diamond"></i>Highly Recomended</h4>
-        					<p>Usage of the Internet is becoming more common due to rapid advancement of technology and power.</p>
-        				</div>
-        			</div>
-        			<div class="col-lg-4 col-md-6">
-        				<div class="feature_item">
-        					<h4><i class="lnr lnr-bubble"></i>Positive Reviews</h4>
-        					<p>Usage of the Internet is becoming more common due to rapid advancement of technology and power.</p>
-        				</div>
-        			</div>
-        		</div>
-        	</div>
-        </section>
-        <!--================End Feature Area =================-->
-        
-        
         
         <!--================ start footer Area  =================-->	
         <footer class="footer-area p_120">
             <div class="container">
-                <div class="row">
-                    <div class="col-lg-3  col-md-6 col-sm-6">
-                        <div class="single-footer-widget ab_wd">
-                            <h6 class="footer_title">About Us</h6>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore dolore magna aliqua.</p>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 col-sm-6">
-                        <div class="single-footer-widget contact_wd">
-                            <h6 class="footer_title">Contact Us</h6>
-                            <p>56/8, Santa Monica bullevard, Los angeles, california, United states of america</p>	
-                            <a href="tel:01265325689746">012-6532-568-9746</a>			
-                            <a href="tel:01265325689746">012-6532-568-9746</a>			
-                        </div>
-                    </div>							
-                    <div class="col-lg-5 col-md-6 col-sm-6 offset-lg-1">
-                        <div class="single-footer-widget">
-                            <h6 class="footer_title">Newsletter</h6>
-                            <p>You can trust us. we only send promo offers, not a single spam.</p>		
-                            <div id="mc_embed_signup">
-                                <form target="_blank" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" method="get" class="subscribe_form relative">
-                                    <div class="input-group d-flex flex-row">
-                                        <input name="EMAIL" placeholder="Your email address" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email Address '" required="" type="email">
-                                        <button class="btn sub-btn"><span class="lnr lnr-arrow-right"></span></button>		
-                                    </div>									
-                                    <div class="mt-10 info"></div>
-                                </form>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                
                 <div class="row footer-bottom d-flex justify-content-between align-items-center">
-                    <p class="col-lg-8 col-md-8 footer-text m-0"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+                    
                     <div class="col-lg-4 col-md-4 footer-social">
                         <a href="#"><i class="fa fa-facebook"></i></a>
                         <a href="#"><i class="fa fa-twitter"></i></a>
-                        <a href="#"><i class="fa fa-dribbble"></i></a>
-                        <a href="#"><i class="fa fa-behance"></i></a>
                     </div>
                 </div>
             </div>
